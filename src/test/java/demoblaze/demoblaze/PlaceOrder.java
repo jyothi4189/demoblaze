@@ -25,4 +25,9 @@ public void testOrder() throws InterruptedException {
 	cartpage.acceptPopUp();
 	
 }
+@Test
+public void testLogin() {
+	HomePage homepage=new HomePage(driver);
+	
+}
 }
